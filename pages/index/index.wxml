@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <label>
+    <text>用户名</text>
+  </label>
+  <input type="text" value="123" />
+
+  <label>
+    <text>密码</text>
+  </label>
+  <input type="password" value="111111" />
+</view>
